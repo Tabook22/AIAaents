@@ -4,6 +4,8 @@ crewai-tools
 python-dotenv
 langchain-community
 langchain_openai
-#streamlit
+streamlit
 #youtube-transcript-api
 #youtube-dl
+pillow 
+requests

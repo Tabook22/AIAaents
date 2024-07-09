@@ -1,5 +1,11 @@
+__pycache__
+.vscode/*
 # Ignore .env file
 .env
 
 # Ignore myvenv folder
 myvenv/
+
+.idea/
+rag_pdf/db
+__pycache__/
